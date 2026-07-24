@@ -164,8 +164,8 @@ solution/
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `pytest tests/ -v` — các checkpoint đều pass
-- [ ] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
-- [ ] `solution/exercises.md` — cả 9 câu đã trả lời
-- [ ] `solution/solution.py` — bản code cuối cùng
-- [ ] Đã zip và đổi tên đúng quy định trước khi upload LMS
+- [x] `pytest tests/ -v` — các checkpoint đều pass
+- [x] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
+- [x] `solution/exercises.md` — cả 9 câu đã trả lời
+- [x] `solution/solution.py` — bản code cuối cùng
+- [x] Đã zip và đổi tên đúng quy định trước khi upload LMS
